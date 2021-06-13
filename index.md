@@ -11,6 +11,6 @@ this website will be used to document my learning journey.
 Here I will link to personal projects.
 *Please keep in mind, some may be a work in progress as I do this in my free time.*
 
--[Image Filter Creator](https://newviewgames.github.io/filterCreatorMinimized/) Mess aroung with changing the RGB values of every pixel based on a user input formula for each color channel.
+-[Image Filter Creator:](https://newviewgames.github.io/filterCreatorMinimized/) Mess aroung with changing the RGB values of every pixel based on a user input formula for each color channel.
 
 -More on the way
