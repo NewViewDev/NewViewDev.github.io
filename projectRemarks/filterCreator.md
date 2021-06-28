@@ -1,7 +1,8 @@
-## Filter Creator
+# Filter Creator
 
-Last Edited: June 28th 2021
-[Project Link](https://newviewgames.github.io/filterCreatorMinimized/)
+Last Edited: *June 28th 2021*
+
+[**Project Link**](/filterCreatorMinimized/)
 
 ### Background:
   I started this project because I worked on image filtering in one of my classes. A lot of the actual work was done for us and we just needed to use higher-order functions to give the desired filter results. There were a few things about this that weren't satisfying to me, though I did love the project as a whole. Still, I just really wanted to see how to manipulate the image from start to finish on my own, and also, I wanted a more generalized method for image manipulation instead of hard coding each individual filter.
@@ -10,13 +11,13 @@ Last Edited: June 28th 2021
 ### After Thoughts:
  I've really enjoyed this project from an intellectual standpoint because it has started to show me how things go together and how much can be done from a simple browser application of just HTML, JS, CSS, and WebGL. I know there's still a lot more to learn, especially on the server backend side, and I'm excited to do that in the future. I suppose it would also be really cool to one day try an implementation on a server that has allocated processing power and process them in a faster language on a more powerful machine. I might do that in the distant future if there was interest. However, once I implement WebGL, I do not see any real reason to.
  
- ### To Do:
+ ## To Do:
  - webGL implimentation (keep javascript as a fallback if no webGL support)
  - better user interface
  - savable user filters
  - better instructions
 
-### Things Learned:
+## Things Learned:
 - javascript:
   - workers
   - canvas
