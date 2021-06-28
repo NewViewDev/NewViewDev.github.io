@@ -11,13 +11,13 @@ Last Edited: *June 28th 2021*
 ### After Thoughts:
  I've really enjoyed this project from an intellectual standpoint because it has started to show me how things go together and how much can be done from a simple browser application of just HTML, JS, CSS, and WebGL. I know there's still a lot more to learn, especially on the server backend side, and I'm excited to do that in the future. I suppose it would also be really cool to one day try an implementation on a server that has allocated processing power and process them in a faster language on a more powerful machine. I might do that in the distant future if there was interest. However, once I implement WebGL, I do not see any real reason to.
  
- ## To Do:
+ ### To Do:
  - webGL implimentation (keep javascript as a fallback if no webGL support)
  - better user interface
  - savable user filters
  - better instructions
 
-## Things Learned:
+### Things Learned:
 - javascript:
   - workers
   - canvas
