@@ -2,7 +2,7 @@
 
 Last Edited: *June 28th 2021*
 
-[**Project Link**](/filterCreatorMinimized/)
+[**Project Link**](https://newviewgames.github.io/filterCreatorMinimized/)
 
 ### Background:
   I started this project because I worked on image filtering in one of my classes. A lot of the actual work was done for us and we just needed to use higher-order functions to give the desired filter results. There were a few things about this that weren't satisfying to me, though I did love the project as a whole. Still, I just really wanted to see how to manipulate the image from start to finish on my own, and also, I wanted a more generalized method for image manipulation instead of hard coding each individual filter.
