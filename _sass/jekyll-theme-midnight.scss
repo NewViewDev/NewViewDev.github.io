@@ -179,6 +179,7 @@ dt {
     ul{
       margin: 0;
       white-space: nowrap;
+      display:inline-block
     }
 
     li {
@@ -200,8 +201,6 @@ dt {
 
         background-color: #93bd20;
         padding: 10px 12px;
-        margin-top: 6px;
-        line-height:14px;
         font-size:14px;
         display: inline-block;
         text-align:center;
