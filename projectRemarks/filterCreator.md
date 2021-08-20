@@ -47,5 +47,7 @@ Last Edited: *July 27th, 2021*
   - texture loading
   - drawing to the canvas
 - Random:
-  - Google Analytics
+  - Google:
+    - Analytics
+    - Fonts and Icons
   - GitHub Pages
