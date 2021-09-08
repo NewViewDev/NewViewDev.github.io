@@ -2,7 +2,7 @@
 
 
 ## Log 1:
-Last Edited: {{ article.published_at | date: "%b %d, %Y" }}
+Last Edited: {{ "now" | date: "%B %d, %Y" }}
 
 <!-- [**Project Link**] -->
 
