@@ -20,6 +20,7 @@ Here I will link to personal projects. There's always more on the way!
 - Ambigram Creator:
   - A python addon to create simple 3D ambigrams
   - Primarily to learn how to interact with the Blender API and keep me interested while doing so
-### Godot:
-- A few game ideas in the works. I'll update this when I have something near a final product.
+### Godot (A few simple game ideas in the works):
+- Destructible Tower Defense [Dev Log](/projectRemarks/destructibleTD/devLog1.md):
+  - A tower defense game with a destructible enviornment
 <!-- ### School: -->
