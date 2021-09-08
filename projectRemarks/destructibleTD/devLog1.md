@@ -2,7 +2,7 @@
 
 
 ## Log 1:
-Last Edited: {{ "now" | date: "%B %d, %Y" }}
+Last Edited: {{ site.time | date: "%B %d, %Y" }}
 
 <!-- [**Project Link**] -->
 
