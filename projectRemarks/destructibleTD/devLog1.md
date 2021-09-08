@@ -1,10 +1,10 @@
 # Destructible Tower Defense
 
-## Log 1:
-Last Edited: {{ site.time | date: '%y' }}
-{{ site.time | date: '%y' }}
 
-[**Project Link**]
+## Log 1:
+Last Edited: {{ article.published_at | date: "%B %d, %Y" }}
+
+<!-- [**Project Link**] -->
 
 ### Background:
 After learning how to use Godot's 2D engine decently, I decided my origional mobile game idea wasn't anything amazing.
@@ -16,7 +16,7 @@ Next I would have to figure out how to build such a thing.
 Currently there isn't too much to do in the "game".
 I figured out how to split sprites into more sprites, which was surprisingly annoying as there are various places where scaling can change where things should be placed
 relative to others. Anyways, here that is.
-[QuadTree in action](/quadTree.gif)
+<image src="/quadTree.gif" alt="quadTreeGif"/> 
 
 Next I just added some litte players to walk around the scene as well as some graphics to make it look like dirt being destroyed.
 There's definately a slightly jaring texture change when one sprite is split into 4 with the same texture, but that can be fixed later.
