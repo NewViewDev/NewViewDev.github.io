@@ -20,7 +20,36 @@ Here I will link to personal projects. There's always more on the way!
 - Ambigram Creator:
   - A python addon to create simple 3D ambigrams
   - Primarily to learn how to interact with the Blender API and keep me interested while doing so
+
 ### Godot (A few simple game ideas in the works):
 - Destructible Tower Defense [Dev Log](/projectRemarks/destructibleTD/devLog1.md):
   - A tower defense game with a destructible enviornment
-<!-- ### School: -->
+### School (code only available upon employer request):
+- Language: C
+  - Santorini
+    -
+  - Clue
+    - 
+  - Word Freak
+    -
+  - Presidential Debate
+  - MathBot
+- Language: Javascript
+  - Image Processing
+  - Oracle
+  - JSON Builders
+  - Data Streams
+  - State Machines
+- Language: Java (Data Structures)
+  - FizzBuzz
+  - Guess My Array/List
+  - Post/Infix equation parser and evaluator
+  - HashTable
+  - Fractals (recursion)
+  - Merge Sort / Queues
+  - List Interface using Recursion
+  - Mathematical Sets (Linked Lists)
+  - Binary Search and Skapegoat Trees
+  - Heap
+- Language: Python
+  - 
