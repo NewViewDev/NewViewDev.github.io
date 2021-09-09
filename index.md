@@ -24,23 +24,27 @@ Here I will link to personal projects. There's always more on the way!
 ### Godot (A few simple game ideas in the works):
 - Destructible Tower Defense [Dev Log](/projectRemarks/destructibleTD/devLog1.md):
   - A tower defense game with a destructible enviornment
+  
 ### School (code only available upon employer request):
-- Language: C
-  - Santorini
-    -
-  - Clue
+Language: C
+  - Santorini [Remarks]()
+    - Based on the Santorini board game
+    - Entirely command line interface for game board and input
+  - Clue [Remarks]()
     - 
   - Word Freak
     -
   - Presidential Debate
   - MathBot
-- Language: Javascript
+
+Language: Javascript
   - Image Processing
   - Oracle
   - JSON Builders
   - Data Streams
   - State Machines
-- Language: Java (Data Structures)
+
+Language: Java (Data Structures)
   - FizzBuzz
   - Guess My Array/List
   - Post/Infix equation parser and evaluator
@@ -51,5 +55,6 @@ Here I will link to personal projects. There's always more on the way!
   - Mathematical Sets (Linked Lists)
   - Binary Search and Skapegoat Trees
   - Heap
-- Language: Python
+
+Language: Python
   - 
