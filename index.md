@@ -12,7 +12,7 @@ Here I will link to personal projects. There's always more on the way!
 *Please keep in mind, some may be a work in progress as I do this in my free time.*
 
 ### Web Scraping:
-- Due Date Scraper:
+- Due Date Scraper: [Repo](https://github.com/NewViewDev/DueDateOrganizer)
   - Timeframe: _Winter Break 2022_
   - Scrapes important dates off a variety of websites to put them all in one place
   - Scraping done using Python's Beautiful Soup and Requests libraries
