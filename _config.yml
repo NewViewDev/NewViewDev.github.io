@@ -21,7 +21,7 @@
 title: Paul's Programming Projects
 email: NewViewGames@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Programming Projects Showcase for Paul Russell.
+  Project Showcase for Paul Russell
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: newviewdev.github.io
 url: "https://newviewdev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
