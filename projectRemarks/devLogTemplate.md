@@ -1,7 +1,12 @@
-TODO: # NAME
+---
+layout: default
+title: TODO
+---
+
+# NAME
 
 
-TODO: ## Log ?:
+## Log ?:
 Last Edited: {{ site.time | date: "%B %d, %Y" }}
 
 <!-- [**Project Link**] -->

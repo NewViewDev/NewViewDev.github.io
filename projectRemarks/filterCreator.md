@@ -1,3 +1,8 @@
+---
+layout: default
+title: Filter Creator
+---
+
 # Filter Creator
 
 Last Edited: *July 27th, 2021*

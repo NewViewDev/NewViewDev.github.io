@@ -1,3 +1,8 @@
+---
+layout: default
+title: index
+---
+
 ## Welcome to My Website
 
 Here I will be linking to some of my programming experience and occasionally write up informational posts.
@@ -10,6 +15,9 @@ this website will be used to document my learning journey.
 ## Projects:
 Here I will link to personal projects. There's always more on the way!
 *Please keep in mind, some may be a work in progress as I do this in my free time.*
+
+### Reversing:
+- UWP System Settings: [Dev Log](/projectRemarks/reversing/UWPSystemSettings/Log1.html)
 
 ### Web Scraping:
 - Due Date Scraper: [Repo](https://github.com/NewViewDev/DueDateOrganizer)
@@ -28,7 +36,7 @@ Here I will link to personal projects. There's always more on the way!
     - Apple app store support if it becomes popular enough
 
 ### WebDev:
-- Image Filter Creator: [Try It!](https://newviewdev.github.io/filterCreatorMinimized/), [Dev Log](/projectRemarks/filterCreator.md)
+- Image Filter Creator: [Try It!](https://newview.dev/filterCreatorMinimized/), [Dev Log](/projectRemarks/filterCreator.html)
   - Timeframe: _Summer 2021_
   - Mess around with changing the RGB values of every pixel based on a user input formula for each color channel. Gives very interesting visual effects.
   - Written in pure HTML, JS, CSS, and WebGL
@@ -42,7 +50,7 @@ Here I will link to personal projects. There's always more on the way!
   - Primarily to learn how to interact with the Blender API and keep me interested while doing so
 
 ### Godot (A few simple game ideas in the works):
-- Destructible Tower Defense [Dev Log](/projectRemarks/destructibleTD/devLog1.md):
+- Destructible Tower Defense [Dev Log](/projectRemarks/destructibleTD/devLog1.html):
   - A tower defense game with a destructible environment
   
 ## School (code only available upon employer request):
