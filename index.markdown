@@ -9,8 +9,7 @@ Here I will be linking to some of my programming experience and occasionally wri
 
 ### About me:
 
-I am currently a Senior at the University of Massachusetts Amherst. I am interested in everything having to do with computers and
-this website will be used to document my learning journey.
+I am an Alumni of the University of Massachusetts Amherst. I am interested in everything having to do with computers and this website will be used to document my learning journey.
 
 ## Projects:
 Here I will link to personal projects. There's always more on the way!
@@ -18,6 +17,10 @@ Here I will link to personal projects. There's always more on the way!
 
 ### Reversing:
 - UWP System Settings: [Dev Log](/projectRemarks/reversing/UWPSystemSettings/Log1.html)
+  - Timeframe: _May/June 2023_
+  - Goal: Modify Windows's Settings UI
+  - Provided an introduction to a variety of Reverse Engineering and CyberSecurity tools
+  - UWP apps means reading lots of windows documentation
 
 ### Web Scraping:
 - Due Date Scraper: [Repo](https://github.com/NewViewDev/DueDateOrganizer)
